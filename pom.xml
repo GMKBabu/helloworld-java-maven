@@ -42,13 +42,13 @@
 	<repository>
 		<id>gmk</id>
 		<name>Internal Releases</name>
-		<url>http://localhost:8081/nexus/content/repositories/nexusrepo/</url>
+		<url>http://localhost:8081/nexus/content/repositories/gmk/release/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>gmk</id>
 		<name>Internal Releases</name>
-		<url>http://localhost:8081/nexus/content/repositories/nexusrepo/</url>
+		<url>http://localhost:8081/nexus/content/repositories/gmk/snapshot/</url>
 	</snapshotRepository>
 
 </distributionManagement>
